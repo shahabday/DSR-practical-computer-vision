@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
