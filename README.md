@@ -14,6 +14,7 @@
 
 ## Workshop 2 
 * [Slides](slides/Image%20Dataset%20Curation%20-%20Art%20Recommendation%20-%20Workshop%202.pdf)
+* [Running FiftyOne on a Github Codespace](https://github.com/andandandand/fiftyone-getting-started)
 * [Nearest Neighbors and Clustering of Images](notebooks/Tutorial_Part3_Image_Neighborhoods_and_Clustering_of_Street_Artwork.ipynb)
 * [Visualizing Image Vector Spaces using Tensorboard](notebooks/Tutorial_Part5_Visualizing_Image_Embeddings_with_Tensorboard.ipynb)
 
