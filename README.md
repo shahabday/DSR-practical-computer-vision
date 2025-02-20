@@ -1,6 +1,6 @@
 
 
-# Practical Computer Vision with PyTorch
+# Practical Computer Vision with PyTorch and FiftyOne
 
 ![](images/image_embeddings_zero_cluster.gif)
 ***Visualizing image embeddings in a 2D space***
