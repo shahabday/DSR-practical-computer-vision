@@ -28,7 +28,6 @@
 
 
 #### Author: Antonio Rueda-Toicen
-#### [AI Service Center @ Hasso Plattner Institute](https://hpi.de/en/kisz/home.html) 
 
 **antonio.rueda.toicen 'at' hpi 'dot' de**
 
